@@ -1,0 +1,26 @@
+@font-face {
+  font-family: 'AppleGothicNeoSB';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://github.com/mymay0510/fontrepocss/raw/main/AppleSDGothicNeoSB.woff2) format('woff2');
+  unicode-range: U+caf4-cb47, U+cb4a-cb90;
+}
+
+@font-face {
+  font-family: 'AppleGothicNeoR';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://github.com/mymay0510/fontrepocss/raw/main/AppleSDGothicNeoR.woff2) format('woff2');
+  unicode-range: U+caf4-cb47, U+cb4a-cb90;
+}
+
+@font-face {
+  font-family: 'AppleGothicNeoEB';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://github.com/mymay0510/fontrepocss/raw/main/AppleSDGothicNeoEB.woff2) format('woff2');
+  unicode-range: U+caf4-cb47, U+cb4a-cb90;
+}
